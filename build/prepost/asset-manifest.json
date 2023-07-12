@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/report/prepost/static/css/main.7d265d45.css",
+    "main.js": "/report/prepost/static/js/main.0c010a7b.js",
+    "static/media/Arial-bold.ttf": "/report/prepost/static/media/Arial-bold.ff5427169c7aaacb3946.ttf",
+    "static/media/mouth.png": "/report/prepost/static/media/mouth.eea11fa0d60690ad22a0.png",
+    "static/media/ANGSA.ttf": "/report/prepost/static/media/ANGSA.b8e3817fe5ec314a7d17.ttf",
+    "static/media/CORDIA.ttf": "/report/prepost/static/media/CORDIA.b1ddf3d930e781b74ab8.ttf",
+    "static/media/cordiaub.ttf": "/report/prepost/static/media/cordiaub.ebf4c8b18d08367dd838.ttf",
+    "static/media/angsab.ttf": "/report/prepost/static/media/angsab.e9597f8f9d4970b11760.ttf",
+    "static/media/CordiaNewBold.ttf": "/report/prepost/static/media/CordiaNewBold.f9e757dd128e3721fd87.ttf",
+    "static/media/kelanglogo.png": "/report/prepost/static/media/kelanglogo.9aa7b9afe6f9c5a0fa27.png",
+    "index.html": "/report/prepost/index.html",
+    "main.7d265d45.css.map": "/report/prepost/static/css/main.7d265d45.css.map",
+    "main.0c010a7b.js.map": "/report/prepost/static/js/main.0c010a7b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d265d45.css",
+    "static/js/main.0c010a7b.js"
+  ]
+}
